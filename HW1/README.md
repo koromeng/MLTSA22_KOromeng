@@ -1,4 +1,5 @@
-##Homework 1 
+## Homework 1 
+
 Team Members: Jonathan Hicks, Dan Nguyen,Kopo Oromeng, Radhika Sundar
 
 Contribution of each member:
