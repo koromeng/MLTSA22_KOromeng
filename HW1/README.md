@@ -10,8 +10,9 @@ Jonathan Hicks: Primarily responsible for the coding, since he is already famili
 
 Dan Nguyen: He had worked on the homework independently and pointed out issues and raised questions that were very helpful.
 
-Kopo Oromeng: She too had worked on the homework independently and pointed out issues and raised questions that were very helpful.
+# Kopo Oromeng: 
+I am a beginner with colab but have some experience working with python. In this assignment I joined the group  having read the assignment and done a portion of it. I found engaging with Jonathan, Radhika and Dat helpful because I was struggling with....
 
 Radhika Sundar: She too had worked on the homework independently and pointed out issues and raised questions that were very helpful.
 
-All members collaborated in debugging the code and truobleshooting it.
+All members collaborated in debugging the code and troubleshooting it.
